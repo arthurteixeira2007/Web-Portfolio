@@ -101,24 +101,9 @@ div#Beggin > div#MyInfo > ul {
     margin: 0px 1.5em;
 }
 
-/*Who Am I*/
-div#WhoAmI {
-    
-}
-
-/*Study*/
-div#Study {
-    
-}
-
 .GameExample > img {
     height: 300px;
     width: 450px;
     margin: 0px 6em;
     border-radius: 10px;
-}
-
-/*My Hobbies*/
-div#MyHobbies {
-    
 }
